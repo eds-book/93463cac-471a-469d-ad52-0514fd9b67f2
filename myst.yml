@@ -106,6 +106,7 @@ project:
     content: CC-BY-4.0
     code: MIT
   date: 2024-09-13
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: README.md
     - file: notebook.ipynb
