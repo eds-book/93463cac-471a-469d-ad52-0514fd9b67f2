@@ -1,0 +1,80 @@
+{
+  "input": {
+    "files": [],
+    "opts": {
+      "execute": false,
+      "pdf": false,
+      "tex": false,
+      "typst": false,
+      "docx": false,
+      "md": false,
+      "xml": false,
+      "meca": false,
+      "cff": true,
+      "site": false,
+      "html": false,
+      "all": false,
+      "doiBib": false,
+      "watch": false,
+      "force": false,
+      "checkLinks": false,
+      "strict": false,
+      "ci": false,
+      "maxSizeWebp": 1572864
+    }
+  },
+  "exports": [
+    {
+      "format": "cff",
+      "type": "software",
+      "version": "v2025.6.0",
+      "license": "MIT",
+      "license-url": "https://opensource.org/license/MIT",
+      "identifiers": [
+        {
+          "description": "Open review report for this notebook",
+          "type": "url",
+          "value": "https://github.com/eds-book/notebooks-reviews/issues/9"
+        }
+      ],
+      "references": [
+        {
+          "authors": [
+            {
+              "family-names": "Bône",
+              "given-names": "Constantin"
+            },
+            {
+              "family-names": "Gastineau",
+              "given-names": "Guillaume"
+            },
+            {
+              "family-names": "Thiria",
+              "given-names": "Sylvie"
+            },
+            {
+              "family-names": "Gallinari",
+              "given-names": "Patrick"
+            }
+          ],
+          "doi": "10.1017/eds.2022.17",
+          "type": "article",
+          "scope": "Reproduced paper as part of the 2023 Climate Informatics Reproducibility Challenge.",
+          "title": "Detection and attribution of climate change: A deep learning and variational approach",
+          "journal": "Environmental Data Science journal",
+          "year": 2022
+        }
+      ],
+      "output": "/Users/acoca/Local/turing/edsbook/repos/dev/gallery/93463cac-471a-469d-ad52-0514fd9b67f2/CITATION.cff",
+      "articles": [
+        {
+          "file": "/Users/acoca/Local/turing/edsbook/repos/dev/gallery/93463cac-471a-469d-ad52-0514fd9b67f2/notebook.ipynb",
+          "level": 1,
+          "slug": "notebook"
+        }
+      ],
+      "$file": "/Users/acoca/Local/turing/edsbook/repos/dev/gallery/93463cac-471a-469d-ad52-0514fd9b67f2/myst.yml",
+      "$project": "/Users/acoca/Local/turing/edsbook/repos/dev/gallery/93463cac-471a-469d-ad52-0514fd9b67f2"
+    }
+  ]
+}
