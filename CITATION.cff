@@ -35,7 +35,7 @@ keywords:
   - Modelling
   - Special Issue
   - Python
-license: MITs
+license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/39d9c177-11da-41b2-9b64-63f4c1c834b3
 references:
@@ -59,4 +59,4 @@ references:
     journal: Environmental Data Science journal
     year: 2022
 type: software
-version: v2025.05.0
+version: v2025.6.0

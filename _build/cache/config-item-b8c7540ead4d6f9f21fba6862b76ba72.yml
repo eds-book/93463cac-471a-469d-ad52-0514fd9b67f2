@@ -1,0 +1,44 @@
+version: 1
+project:
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: MIT
+
+site:
+  template: book-theme
+  options:
+    analytics_google: G-3E20PWD938 # Measurement ID or Tracking ID
+    favicon: https://raw.githubusercontent.com/eds-book/edsbook-config/main/favicon.ico
+    logo: https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook_logo-black.png
+    logo_dark: https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook_logo-white.png
+    outline_maxdepth: 2
+    hide_toc: true
+#    logo_text: EDS book
+
+  nav:
+    - title: About
+      url: https://edsbook.org/about
+    - title: Gallery
+      url: https://edsbook.org/gallery
+    - title: Contribute
+      url: https://edsbook.org/contribute
+    - title: Guidelines
+      children:
+        - title: Guide for Authors
+          url: https://edsbook.org/guidelines-authors
+        - title: Guide for Reviewers
+          url: https://edsbook.org/guidelines-reviewers
+        - title: Guide for Editors
+          url: https://edsbook.org/guidelines-editors
+        - title: Guide for Editor in Chief
+          url: https://edsbook.org/guidelines-eic
+        - title: Guide for Community
+          url: https://edsbook.org/guidelines-community
+    - title: Community
+      url: https://edsbook.org/community
+    - title: Cite
+      url: https://edsbook.org/cite
+  actions:
+    - title: Home
+      url: https://edsbook.org
